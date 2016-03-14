@@ -11,5 +11,5 @@ Clone this repository and
 ####Step two:
 Run the pi.py script in your terminal to use the Archimedes Method to approximating Pi.
 
-####Step two:
+####Step three:
 Change the numbers of sides in the polygon to get as close to 3.14159265359 as possible

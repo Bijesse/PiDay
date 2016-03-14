@@ -8,7 +8,7 @@ import math
 
 #set the number of sides of the inner polygon
 #must be a multiple of 6
-numsides = 30
+numsides = 6
 
 sidelength = 1
 pi = 0
